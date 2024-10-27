@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void main(){
     int guess;
     int secretNumber = 3;
 
@@ -13,5 +13,5 @@ int main() {
         printf("Sorry, it's wrong, you lost. The correct number was %d.\n", secretNumber);
     }
 
-    
+
 }
