@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void main(){
     char pet[10];
 
     printf("Do you have a cat or a dog? ");
