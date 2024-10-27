@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void main(){
     int age;
     printf("How old are you? ");
     scanf("%d", &age);
